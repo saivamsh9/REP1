@@ -1,4 +1,4 @@
 
 public class testpage {
-int sysou;
+int sysou1;
 }
